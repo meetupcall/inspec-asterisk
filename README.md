@@ -24,7 +24,7 @@ inspec -t ssh://user@yourasterisk.instance https://github.com/meetupcall/inspec-
 
 If you have a new control to add to this project by all means submit a PR. The rule can be new Inspec controls or just plain English.
 
-#TODO
+# TODO
 
 * Config file paths are current hard coded, we should pull out the config file path that asterisk is using from asterisk.
 
