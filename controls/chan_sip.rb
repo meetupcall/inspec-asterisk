@@ -66,6 +66,7 @@ end
 
 #TODO:
 # Use strong passwords for SIP entities
+# chan_sip-04 Check the deny line excludes all addresses. Permits then explicitly allow CIDR blocks.
 
 # Config file paths are configurable and can include other files! Would be nice
 # if Asterisk output an entire parsed config

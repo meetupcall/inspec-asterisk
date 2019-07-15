@@ -14,3 +14,6 @@ control 'ami-01' do
     end
   end
 end
+
+# TODO:
+# ami-01 Check the deny line excludes all addresses. Permits then explicitly allow CIDR blocks.
