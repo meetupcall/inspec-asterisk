@@ -1,0 +1,10 @@
+name: inspec-asterisk
+title: Asterisk Inspec Profile
+maintainer: Meetupcall
+copyright: Meetupcall
+copyright_email: antonio.berrios@meetupcall.com
+license: Apache-2.0
+summary: An InSpec profile to Asterisk security best practices
+version: 0.1.0
+supports:
+  - os-family: linux
