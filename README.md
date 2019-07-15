@@ -9,16 +9,16 @@ This InSpec compliance profile checks security best practices for the Asterisk O
 
 # Usage
 
-`
+```
 git clone https://github.com/meetupcall/inspec-asterisk
 inspec -t ssh://user@yourasterisk.instance inspec-asterisk
-`
+```
 
 You can also execute this profile directly from github
 
-`
+```
 inspec -t ssh://user@yourasterisk.instance https://github.com/meetupcall/inspec-asterisk
-`
+````
 
 # All PRs Welcome
 
